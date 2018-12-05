@@ -1,0 +1,26 @@
+id	name
+484	01. Mexico Total: 11,573,680
+156	02. China (includes mainland China, Hong Kong, and Taiwan) Total: 2,716,548
+356	03. India Total: 2,434,524
+156	04. China (excludes Hong Kong and Taiwan) Total: 2,130,352
+608	05. Philippines Total: 1,941,665
+222	06. El Salvador Total: 1,387,022
+704	07. Vietnam Total: 1,352,760
+192	08. Cuba Total: 1,271,618
+214	09. Dominican Republic Total: 1,085,321
+410	10. Korea Total: 1,041,727
+320	11. Guatemala Total: 935,707
+124	12. Canada Total: 783,206
+388	13. Jamaica Total: 736,303
+170	14. Colombia Total: 704,587
+826	15. United Kingdom (includes Crown Dependencies) Total: 696,896
+332	16. Haiti Total: 668,223
+340	17. Honduras Total: 651,059
+276	18. Germany Total: 563,985
+218	19. Ecuador Total: 439,123
+604	20. Peru Total: 427,445
+616	21. Poland Total: 424,928
+76	22. Brazil Total: 409,595
+643	23. Russia Total: 397,236
+364	24. Iran Total: 386,073
+586	25. Pakistan Total: 382,852
